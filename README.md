@@ -22,7 +22,7 @@ install.packages(c(
 ))
 
 ###2. Clone via git (option 1)
-git clone https://github.com/yourusername/CropEffCal.git
+git clone https://github.com/divyacrotu/CropEffCal.git
 setwd("CropEffCal")
 shiny::runApp()
 
