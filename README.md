@@ -21,12 +21,7 @@ install.packages(c(
   "DT", "bslib", "shinybusy", "ggplot2", "plotly"
 ))
 
-###2. Clone via git (option 1)
-git clone https://github.com/divyacrotu/CropEffCal.git
-setwd("CropEffCal")
-shiny::runApp()
-
-###OR Download ZIP (Option 2)
+###2. Download ZIP
 
 Click the green Code button → Download ZIP
 
